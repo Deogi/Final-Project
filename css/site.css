@@ -7,6 +7,7 @@ body {
     font-style: italic;
     font-size: 25px;
     color:Orange;
+    font-family: Impact black sans-serif;
 }
 
  #con1 {
@@ -50,18 +51,19 @@ body {
     padding: 25px;
 }
 #soctag {
-    
+    font-family: Impact sans-serif;
     text-align: center;
+    color: black;
 }
 #contact {
     background-color: #FFA07A	;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    
+    text-align: center;    
 }
 #contact h1 {
     color: black;
     text-align: left;
+     font-family: Georgia, serif;
 }
 #Twitter {
     background-color: white;
@@ -87,7 +89,7 @@ body {
     padding: 15px;
 }
 #Copy {
-    margin: 0px
+    margin: 0px;
 }
 
 #Navbar {
@@ -116,4 +118,16 @@ body {
 }
 #Vet {
     border: solid sandybrown 5px;
+}
+#case {
+    margin-top: 20px;
+    border: solid sandybrown 5px;
+}
+#contact h2 {
+    color: black;
+    font-family: Impact, Charcoal, sans-serif
+}
+#TopSell {
+    font-family: Impact, Charcoal, sans-serif;
+    color: black;
 }
